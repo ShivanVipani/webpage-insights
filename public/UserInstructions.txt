@@ -1,0 +1,17 @@
+Hello there!
+
+To get started with this site, launch your Internet browser and navigate to:
+https://webpage-insights.herokuapp.com/
+
+For a given page that you would like to explore for term frequency information, enter a URL into the text box at the top of the page.
+
+Below that, you will see a selection bar, initially set to the question that prompts the user: "Remove stop words?". This is the base state of the website, so if you would like to cancel the rendering of page information, reset this selection bar to the state "Remove stop words?". 
+
+This question addresses terms that are incredibly frequent and add no real meaning to the page, called stop words. Thus, selecting "Yes" in this bar will omit these 'stop words' from the listing of top term frequencies. And, expectedly, selecting "No" will allow for stop words to appear among the listing of top term frequencies.
+
+Upon selecting "Yes" or "No" in this bar, a term frequency summary and page text preview will render below.
+
+The summary gives an insight into which ten words had the highest frequencies on the page, with their corresponding frequencies beside each term. 
+Each word-frequency pair has a special function! Every pair from the top ten list of terms is a clickable button that, when clicked once, highlights the corresponding word in the text preview displayed below. To remove the highlight from the preview, you can click any of the presented term-frequency buttons and toggle the feature off. With the feature off, you can then click another pair button to highlight a different term in the preview.
+
+Enjoy exploring the contents of pages on the Internet with this website!
